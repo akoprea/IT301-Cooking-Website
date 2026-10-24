@@ -10,6 +10,9 @@
         margin:0px 2px; 
         font-size: medium;
     }
+    main {
+    	margin-bottom:60px;
+    }
 }
 /* PHONE */
 @media (max-width: 450px) { 
